@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1100" viewBox="0 0 1000 1100">
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Arial, sans-serif" fill="#252A30">
+<text x="28" y="32" font-size="21">PV &amp; Energy Research - Palette Library</text>
+<text x="28" y="58" font-size="13">Recommended colors; not exact paper extraction. Check the final figure for accessibility.</text>
+<text x="28" y="108" font-size="16">scenario</text>
+<text x="28" y="130" font-size="12">categorical</text>
+<rect x="245" y="88" width="94" height="44" fill="#3B78A6" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="248" y="151" font-size="12">#3B78A6</text>
+<rect x="346" y="88" width="94" height="44" fill="#D98B3A" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="349" y="151" font-size="12">#D98B3A</text>
+<rect x="447" y="88" width="94" height="44" fill="#4F9D83" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="450" y="151" font-size="12">#4F9D83</text>
+<rect x="548" y="88" width="94" height="44" fill="#9A78A6" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="551" y="151" font-size="12">#9A78A6</text>
+<rect x="649" y="88" width="94" height="44" fill="#C86363" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="652" y="151" font-size="12">#C86363</text>
+<text x="28" y="208" font-size="16">technology</text>
+<text x="28" y="230" font-size="12">categorical</text>
+<rect x="245" y="188" width="94" height="44" fill="#E3AD35" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="248" y="251" font-size="12">#E3AD35</text>
+<rect x="346" y="188" width="94" height="44" fill="#3B78A6" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="349" y="251" font-size="12">#3B78A6</text>
+<rect x="447" y="188" width="94" height="44" fill="#4F9D83" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="450" y="251" font-size="12">#4F9D83</text>
+<rect x="548" y="188" width="94" height="44" fill="#9A78A6" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="551" y="251" font-size="12">#9A78A6</text>
+<rect x="649" y="188" width="94" height="44" fill="#BD7753" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="652" y="251" font-size="12">#BD7753</text>
+<rect x="750" y="188" width="94" height="44" fill="#6F747C" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="753" y="251" font-size="12">#6F747C</text>
+<text x="28" y="308" font-size="16">household-pair</text>
+<text x="28" y="330" font-size="12">categorical</text>
+<rect x="245" y="288" width="94" height="44" fill="#277F8E" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="248" y="351" font-size="12">#277F8E</text>
+<rect x="346" y="288" width="94" height="44" fill="#D8877C" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="349" y="351" font-size="12">#D8877C</text>
+<text x="28" y="408" font-size="16">benefit-metrics</text>
+<text x="28" y="430" font-size="12">categorical</text>
+<rect x="245" y="388" width="94" height="44" fill="#78659C" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="248" y="451" font-size="12">#78659C</text>
+<rect x="346" y="388" width="94" height="44" fill="#3B8EA5" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="349" y="451" font-size="12">#3B8EA5</text>
+<rect x="447" y="388" width="94" height="44" fill="#639761" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="450" y="451" font-size="12">#639761</text>
+<rect x="548" y="388" width="94" height="44" fill="#C58A3D" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="551" y="451" font-size="12">#C58A3D</text>
+<text x="28" y="508" font-size="16">blue-seq</text>
+<text x="28" y="530" font-size="12">sequential</text>
+<rect x="245" y="488" width="94" height="44" fill="#F1F6FA" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="248" y="551" font-size="12">#F1F6FA</text>
+<rect x="346" y="488" width="94" height="44" fill="#C6DBEF" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="349" y="551" font-size="12">#C6DBEF</text>
+<rect x="447" y="488" width="94" height="44" fill="#7CAFD4" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="450" y="551" font-size="12">#7CAFD4</text>
+<rect x="548" y="488" width="94" height="44" fill="#387EB0" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="551" y="551" font-size="12">#387EB0</text>
+<rect x="649" y="488" width="94" height="44" fill="#13517E" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="652" y="551" font-size="12">#13517E</text>
+<text x="28" y="608" font-size="16">green-seq</text>
+<text x="28" y="630" font-size="12">sequential</text>
+<rect x="245" y="588" width="94" height="44" fill="#EFF7EF" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="248" y="651" font-size="12">#EFF7EF</text>
+<rect x="346" y="588" width="94" height="44" fill="#C9E4C6" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="349" y="651" font-size="12">#C9E4C6</text>
+<rect x="447" y="588" width="94" height="44" fill="#8DC28C" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="450" y="651" font-size="12">#8DC28C</text>
+<rect x="548" y="588" width="94" height="44" fill="#4E9C68" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="551" y="651" font-size="12">#4E9C68</text>
+<rect x="649" y="588" width="94" height="44" fill="#246B45" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="652" y="651" font-size="12">#246B45</text>
+<text x="28" y="708" font-size="16">purple-seq</text>
+<text x="28" y="730" font-size="12">sequential</text>
+<rect x="245" y="688" width="94" height="44" fill="#F5F0F9" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="248" y="751" font-size="12">#F5F0F9</text>
+<rect x="346" y="688" width="94" height="44" fill="#DDC8EA" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="349" y="751" font-size="12">#DDC8EA</text>
+<rect x="447" y="688" width="94" height="44" fill="#B78DD0" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="450" y="751" font-size="12">#B78DD0</text>
+<rect x="548" y="688" width="94" height="44" fill="#8A55AD" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="551" y="751" font-size="12">#8A55AD</text>
+<rect x="649" y="688" width="94" height="44" fill="#5E2D86" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="652" y="751" font-size="12">#5E2D86</text>
+<text x="28" y="808" font-size="16">orange-seq</text>
+<text x="28" y="830" font-size="12">sequential</text>
+<rect x="245" y="788" width="94" height="44" fill="#FFF3E5" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="248" y="851" font-size="12">#FFF3E5</text>
+<rect x="346" y="788" width="94" height="44" fill="#FAD5A5" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="349" y="851" font-size="12">#FAD5A5</text>
+<rect x="447" y="788" width="94" height="44" fill="#F3AB68" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="450" y="851" font-size="12">#F3AB68</text>
+<rect x="548" y="788" width="94" height="44" fill="#DE7844" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="551" y="851" font-size="12">#DE7844</text>
+<rect x="649" y="788" width="94" height="44" fill="#B34B2E" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="652" y="851" font-size="12">#B34B2E</text>
+<text x="28" y="908" font-size="16">change-div</text>
+<text x="28" y="930" font-size="12">diverging</text>
+<rect x="245" y="888" width="94" height="44" fill="#2166AC" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="248" y="951" font-size="12">#2166AC</text>
+<rect x="346" y="888" width="94" height="44" fill="#67A9CF" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="349" y="951" font-size="12">#67A9CF</text>
+<rect x="447" y="888" width="94" height="44" fill="#D1E5F0" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="450" y="951" font-size="12">#D1E5F0</text>
+<rect x="548" y="888" width="94" height="44" fill="#F7F7F7" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="551" y="951" font-size="12">#F7F7F7</text>
+<rect x="649" y="888" width="94" height="44" fill="#FDDBC7" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="652" y="951" font-size="12">#FDDBC7</text>
+<rect x="750" y="888" width="94" height="44" fill="#EF8A62" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="753" y="951" font-size="12">#EF8A62</text>
+<rect x="851" y="888" width="94" height="44" fill="#B2182B" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="854" y="951" font-size="12">#B2182B</text>
+<text x="28" y="1008" font-size="16">tradeoff-div</text>
+<text x="28" y="1030" font-size="12">diverging</text>
+<rect x="245" y="988" width="94" height="44" fill="#286C55" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="248" y="1051" font-size="12">#286C55</text>
+<rect x="346" y="988" width="94" height="44" fill="#79AE92" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="349" y="1051" font-size="12">#79AE92</text>
+<rect x="447" y="988" width="94" height="44" fill="#D0E5D8" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="450" y="1051" font-size="12">#D0E5D8</text>
+<rect x="548" y="988" width="94" height="44" fill="#F7F7F7" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="551" y="1051" font-size="12">#F7F7F7</text>
+<rect x="649" y="988" width="94" height="44" fill="#E0D4E8" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="652" y="1051" font-size="12">#E0D4E8</text>
+<rect x="750" y="988" width="94" height="44" fill="#A98CBC" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="753" y="1051" font-size="12">#A98CBC</text>
+<rect x="851" y="988" width="94" height="44" fill="#67417E" stroke="#CCD1D6" stroke-width="0.5"/>
+<text x="854" y="1051" font-size="12">#67417E</text>
+</g></svg>

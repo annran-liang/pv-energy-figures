@@ -1,0 +1,4 @@
+interface:
+  display_name: "光伏与能源科研作图"
+  short_description: "从精选论文中选择光伏、气候与能源公平图型，设计组图并统一配色"
+  default_prompt: "使用 $pv-energy-figures，根据我的研究问题与数据推荐图型、面板组合和配色，并解释参考依据。"

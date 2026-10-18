@@ -1,0 +1,16 @@
+{
+  "provenance": "Original recommended palettes informed by visual inspection of the user's 20-paper corpus; not exact source-paper colors or an accessibility certification.",
+  "neutral": {"background":"#FFFFFF","text":"#252A30","grid":"#D8DDE2","missing":"#E3E5E8","baseline":"#707780"},
+  "palettes": {
+    "scenario": {"type":"categorical","colors":["#3B78A6","#D98B3A","#4F9D83","#9A78A6","#C86363"]},
+    "technology": {"type":"categorical","colors":["#E3AD35","#3B78A6","#4F9D83","#9A78A6","#BD7753","#6F747C"]},
+    "household-pair": {"type":"categorical","colors":["#277F8E","#D8877C"]},
+    "benefit-metrics": {"type":"categorical","roles":["carbon","water","land","economic"],"colors":["#78659C","#3B8EA5","#639761","#C58A3D"]},
+    "blue-seq": {"type":"sequential","colors":["#F1F6FA","#C6DBEF","#7CAFD4","#387EB0","#13517E"]},
+    "green-seq": {"type":"sequential","colors":["#EFF7EF","#C9E4C6","#8DC28C","#4E9C68","#246B45"]},
+    "purple-seq": {"type":"sequential","colors":["#F5F0F9","#DDC8EA","#B78DD0","#8A55AD","#5E2D86"]},
+    "orange-seq": {"type":"sequential","colors":["#FFF3E5","#FAD5A5","#F3AB68","#DE7844","#B34B2E"]},
+    "change-div": {"type":"diverging","center":0,"colors":["#2166AC","#67A9CF","#D1E5F0","#F7F7F7","#FDDBC7","#EF8A62","#B2182B"]},
+    "tradeoff-div": {"type":"diverging","center":0,"colors":["#286C55","#79AE92","#D0E5D8","#F7F7F7","#E0D4E8","#A98CBC","#67417E"]}
+  }
+}
