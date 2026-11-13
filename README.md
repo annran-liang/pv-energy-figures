@@ -2,11 +2,11 @@
 
 帮助研究者根据科学问题选择图型、组织多面板图、统一颜色语义，并继续完成可复现的绘图代码与视觉检查。
 
-围绕屋顶/立面光伏、气候影响、能源转型、供电可靠性、家庭能源负担和公平性，基于 **20 篇精选参考论文**整理：
+围绕屋顶/立面光伏、气候影响、能源转型、供电可靠性、家庭能源公平，以及中国城市热韧性、暴露、可达性和跨城流向，基于 **27 篇精选参考论文**整理：
 
-- **30 类图型**：适用问题、最低数据需求、编码方式与限制。
-- **9 套组图方案**：从空间潜力到部署优先序，从未来情景到家庭分配。
-- **10 套建议配色**：分类、顺序、发散配色及中性色，附 HEX 与 Python/R 导出工具。
+- **34 类图型**：适用问题、最低数据需求、编码方式与限制。
+- **12 套组图方案**：从空间潜力、未来情景、家庭分配，到城市比较与流向。
+- **13 套建议配色**：分类、顺序、发散配色及中性色，附 HEX 与 Python/R 导出工具。
 - **可追溯来源索引**：论文 DOI、图号和 PDF 页码。
 
 This reusable scientific-figure skill supports photovoltaic and energy research with a source-grounded chart atlas, multi-panel layouts, and semantic color palettes. The main documentation is in Chinese; scripts and palette IDs are portable.
@@ -16,6 +16,14 @@ This reusable scientific-figure skill supports photovoltaic and energy research 
 以下为原创模拟数据示例，只演示图型与版式，不代表任何论文的真实结果。
 
 ![Scientific chart examples using synthetic data](skills/pv-energy-figures/assets/figure-gallery.png)
+
+城市空间版演示：两期共用色标、变化居中、用哑铃显示选定地区的配对变化。
+
+![Synthetic exposure comparison: paired maps, change map and dumbbell chart](skills/pv-energy-figures/assets/china-spatial-demo.png)
+
+[查看城市空间制图指南](skills/pv-energy-figures/references/china-spatial-figures.md)
+
+选图以**比较关系和数据结构**为准。比如，热韧性论文中用于识别空间错位的“并列地图 + 同城散点”，也可以比较发电潜力（GWh）与低收入家庭受益比例（%）；各用自己的色标和坐标，不必重算原论文指标。
 
 [查看全部配色](skills/pv-energy-figures/assets/palette-preview.svg)
 
@@ -74,6 +82,7 @@ python skills/pv-energy-figures/scripts/figure_style.py --preview palette-previe
 ```bash
 python -m pip install numpy matplotlib
 python skills/pv-energy-figures/scripts/render_gallery.py --out figure-gallery.png
+python skills/pv-energy-figures/scripts/render_china_spatial.py --out spatial.png --svg spatial.svg
 ```
 
 ## 参考与边界

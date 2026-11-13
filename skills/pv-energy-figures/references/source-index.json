@@ -158,5 +158,61 @@
     "doi": "10.1038/s44284-025-00270-6",
     "pdf_pages": 16,
     "visual_anchors": "F1 p3；F2 p4；F3 p5；F4 p6；F5 p7"
+  },
+  {
+    "id": "P21",
+    "title": "Asymmetric and spatially heterogeneous urban sensitivity to inter-day temperature variability: Evidence from geo-tagged social media",
+    "file": "Asymmetric and spatially heterogeneous urban sensitivity to inter-day temperature variability Evidence from geo-tagged social media.pdf",
+    "doi": "10.1016/j.apgeog.2026.104143",
+    "pdf_pages": 14,
+    "visual_anchors": "F1 p3；F2 p4；F3 p6；F4 p7；F5 p8；F6 p9；F7 p11"
+  },
+  {
+    "id": "P22",
+    "title": "Divergence between physical and emotional heat resilience in Chinese cities",
+    "file": "Divergence between physical and emotional heat resilience in Chinese cities.pdf",
+    "doi": "10.1038/s41558-026-02732-8",
+    "pdf_pages": 25,
+    "visual_anchors": "F1 p3；F2 图注 p4、图版 p5；F3 p6；F4 p7；F5 p8"
+  },
+  {
+    "id": "P23",
+    "title": "Expansion toward risk: China's urban growth reshapes population exposure to compound environmental pressures",
+    "file": "Expansion toward risk China's urban growth reshapes population exposure to compound environmental pressures.pdf",
+    "doi": "10.1016/j.eiar.2026.108784",
+    "pdf_pages": 16,
+    "visual_anchors": "F1 p3；F2 p5；F3–4 p7；F5–6 p8；F7 p9；F8 p10；F9–10 p11"
+  },
+  {
+    "id": "P24",
+    "title": "Exploring the influence of local urban heat features on park cooling effects: Insights from Chinese cities",
+    "file": "Exploring the influence of local urban heat features on park cooling effects Insights from Chinese cities.pdf",
+    "doi": "10.1016/j.buildenv.2024.111782",
+    "pdf_pages": 11,
+    "visual_anchors": "F1 p2；F2 p4；F3–4 p5；F5 p6；F6 p7；F7 p8；F8–9 p9"
+  },
+  {
+    "id": "P25",
+    "title": "Green equity after dark: Spatial disparities and influencing mechanism of nighttime accessibility of urban green spaces in Chinese cities",
+    "file": "Green equity after dark Spatial disparities and influencing mechanism of nighttime accessibility of urban green spaces in Chinese cities.pdf",
+    "doi": "10.1016/j.eiar.2026.108527",
+    "pdf_pages": 15,
+    "visual_anchors": "F1 p3；F2 p5；F3 p6；F4 p7；F5 p8；F6 p9；F7 p10；F8–9 p11"
+  },
+  {
+    "id": "P26",
+    "title": "The classification and determinants of the 15-minute city across 339 Chinese cities",
+    "file": "The classification and determinants of the 15-minute city across 339 Chinese cities.pdf",
+    "doi": "10.1038/s42949-026-00384-3",
+    "pdf_pages": 15,
+    "visual_anchors": "F1 p2；F2 p3；F3 p4；F4 p6；F5 p7；F6 p8；F7 p10"
+  },
+  {
+    "id": "P27",
+    "title": "Unequal roles of cities in the intercity healthcare system",
+    "file": "Unequal roles of cities in the intercity healthcare system.pdf",
+    "doi": "10.1038/s44284-024-00185-8",
+    "pdf_pages": 14,
+    "visual_anchors": "F1 p2；F2 p3；F3 p4；F4 p5；F5 p6；F6 p7"
   }
 ]

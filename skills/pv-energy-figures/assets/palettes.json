@@ -1,5 +1,5 @@
 {
-  "provenance": "Original recommended palettes informed by visual inspection of the user's 20-paper corpus; not exact source-paper colors or an accessibility certification.",
+  "provenance": "Original recommended palettes informed by visual inspection of 27 papers; not exact source-paper colors or an accessibility certification.",
   "neutral": {"background":"#FFFFFF","text":"#252A30","grid":"#D8DDE2","missing":"#E3E5E8","baseline":"#707780"},
   "palettes": {
     "scenario": {"type":"categorical","colors":["#3B78A6","#D98B3A","#4F9D83","#9A78A6","#C86363"]},
@@ -11,6 +11,9 @@
     "purple-seq": {"type":"sequential","colors":["#F5F0F9","#DDC8EA","#B78DD0","#8A55AD","#5E2D86"]},
     "orange-seq": {"type":"sequential","colors":["#FFF3E5","#FAD5A5","#F3AB68","#DE7844","#B34B2E"]},
     "change-div": {"type":"diverging","center":0,"colors":["#2166AC","#67A9CF","#D1E5F0","#F7F7F7","#FDDBC7","#EF8A62","#B2182B"]},
-    "tradeoff-div": {"type":"diverging","center":0,"colors":["#286C55","#79AE92","#D0E5D8","#F7F7F7","#E0D4E8","#A98CBC","#67417E"]}
+    "tradeoff-div": {"type":"diverging","center":0,"colors":["#286C55","#79AE92","#D0E5D8","#F7F7F7","#E0D4E8","#A98CBC","#67417E"]},
+    "urban-exposure-seq": {"type":"sequential","colors":["#FCF2DC","#F5D796","#E8AD61","#CA763F","#A8492C","#782C25"]},
+    "urban-effect-div": {"type":"diverging","center":0,"colors":["#254E76","#4F83AF","#A9C7DD","#F6F5F0","#E8C28F","#C68041","#88421F"]},
+    "urban-typology": {"type":"categorical","colors":["#376C9A","#B36332","#4B806D","#806897","#9D762B"]}
   }
 }

@@ -1,8 +1,8 @@
 # 精选论文图谱与来源索引
 
-分析日期：2026-10-18。来源为用户提供的20份本地PDF，共301页；提取文本并渲染主要图页后逐篇查看。下面只记录已观察图型与可迁移设计，不复述论文完整研究内容，也不是对每一个子面板的重现验证。图号按文内标注，页码均为从1开始的PDF文件页码，不是期刊印刷页码；`F`=Figure。图注与图版分离的稿件分别列出。
+来源为用户提供的27份PDF：P01–P20 于2026-10-18查看，P21–P27 于2026-11-13增补。提取文本并渲染主要图页后逐篇查看。下面只记录已观察图型与可迁移设计，不复述论文完整研究内容，也不是对每一个子面板的重现验证。图号按文内标注，页码均为从1开始的PDF文件页码，不是期刊印刷页码；`F`=Figure。图注与图版分离的稿件分别列出。
 
-原始文件位于本次工作目录，但本skill不依赖固定绝对路径。需要原图细节时，在用户提供的目录按以下精确文件名查找；找不到时不要声称已重新查看。原图未复制进安装包。
+本 skill 不依赖原始 PDF 或固定绝对路径。需要原图细节时，按文件名查找本地 PDF，或通过 DOI 获取可访问版本；找不到时不要声称已重新查看。原图未复制进安装包。
 
 需要按程序检索文件名、DOI或图页锚点时，可读取 [source-index.json](source-index.json)。
 
@@ -13,6 +13,7 @@
 - 家庭负担、公平与政策：P03、P09、P14、P17、P18、P19。
 - 风光储可靠性与电网：P11、P12、P15、P16、P17。
 - 多效益协同与部署优先级：P10、P20、P04。
+- 城市热韧性与公园降温：P21、P22、P24；复合暴露、可达性与跨城供需：P23、P25、P26、P27。见[城市空间制图指南](china-spatial-figures.md)。
 
 ## P01 | A building-scale modeling framework for urban net-zero transitions in Nanjing
 
@@ -193,6 +194,62 @@
 - 图型与组合：容量因子与技术/可部署潜力地图；城市层级箱线；建筑类型组成与区域散点；可部署/技术比地图；变宽经济/减碳收益排序曲线；部署路径地图。
 - 配色/绘制观察：不同建筑类型及地区采用固定类别色；各指标使用紫、绿、蓝、灰、暖色单色地图。
 - 迁移建议与边界：本用户屋顶光伏部署研究的优先锚点；曲线横轴是真实累计容量，不能等宽城市条替代。
+
+## P21 | Asymmetric and spatially heterogeneous urban sensitivity to inter-day temperature variability: Evidence from geo-tagged social media
+
+- 原始文件：`Asymmetric and spatially heterogeneous urban sensitivity to inter-day temperature variability Evidence from geo-tagged social media.pdf`
+- 来源：[DOI](https://doi.org/10.1016/j.apgeog.2026.104143)；PDF共14页。
+- 已查看重点：F1 p3；F2 p4；F3 p6；F4 p7；F5 p8；F6 p9；F7 p11。
+- 图型与组合：升温/降温小多图，成对地图与经纬向趋势、散点、分组箱线并排；系数区间与变量重要性用独立刻度。
+- 配色/绘制观察及迁移：响应的冷暖颜色贯穿地图与统计图；迁移时先锁定量纲，区分空间相关性、系数与预测重要性。
+
+## P22 | Divergence between physical and emotional heat resilience in Chinese cities
+
+- 原始文件：`Divergence between physical and emotional heat resilience in Chinese cities.pdf`
+- 来源：[DOI](https://doi.org/10.1038/s41558-026-02732-8)；PDF共25页。
+- 已查看重点：F1 p3；F2 图注 p4、图版 p5；F3 p6；F4 p7；F5 p8。
+- 图型与组合：两种结局地图配同图边际曲线、分组箱线和时间轨迹；阈值散点配类型地图；依赖散点下附样本分布；未来情景用分行地图和区间曲线。
+- 配色/绘制观察及迁移：暖色和蓝绿色区分结局；先核对尺度、指数方向及阈值，共享配色含义不等于共享数值色标。
+
+## P23 | Expansion toward risk: China's urban growth reshapes population exposure to compound environmental pressures
+
+- 原始文件：`Expansion toward risk China's urban growth reshapes population exposure to compound environmental pressures.pdf`
+- 来源：[DOI](https://doi.org/10.1016/j.eiar.2026.108784)；PDF共16页。
+- 已查看重点：F1 p3；F2 p5；F3–4 p7；F5–6 p8；F7 p9；F8 p10；F9–10 p11。
+- 图型与组合：并排两期地图，右列放密度和 Lorenz 曲线；变化地图与冲积图展示类型流转；贝叶斯网络显示条件依赖。
+- 配色/绘制观察及迁移：指标用不同色系；跨期直接比较时应固定全部实际分箱边界。流动图要求实体可配对，网络箭头不能独立证明因果。
+
+## P24 | Exploring the influence of local urban heat features on park cooling effects: Insights from Chinese cities
+
+- 原始文件：`Exploring the influence of local urban heat features on park cooling effects Insights from Chinese cities.pdf`
+- 来源：[DOI](https://doi.org/10.1016/j.buildenv.2024.111782)；PDF共11页。
+- 已查看重点：F1 p2；F2 p4；F3–4 p5；F5 p6；F6 p7；F7 p8；F8–9 p9。
+- 图型与组合：示意图定义降温幅度、距离与效率；地图配三元图、山脊分布、分组响应小多图和热图。
+- 配色/绘制观察及迁移：公园类型用固定语义色；三元图只适用于三部分同分母且加总为100%；热图和小多图应在可比组间锁定刻度。
+
+## P25 | Green equity after dark: Spatial disparities and influencing mechanism of nighttime accessibility of urban green spaces in Chinese cities
+
+- 原始文件：`Green equity after dark Spatial disparities and influencing mechanism of nighttime accessibility of urban green spaces in Chinese cities.pdf`
+- 来源：[DOI](https://doi.org/10.1016/j.eiar.2026.108527)；PDF共15页。
+- 已查看重点：F1 p3；F2 p5；F3 p6；F4 p7；F5 p8；F6 p9；F7 p10；F8–9 p11。
+- 图型与组合：全国地图与城市局部图、地区分布与效应量、SHAP 蜂群和依赖图；房价×绿地双变量地图配象限散点；局部系数、显著性和拟合分面。
+- 配色/绘制观察及迁移：绿色顺序色连接可达性地图；双变量图例要标实际边界，系数正负、检验和拟合不能用一个图例。
+
+## P26 | The classification and determinants of the 15-minute city across 339 Chinese cities
+
+- 原始文件：`The classification and determinants of the 15-minute city across 339 Chinese cities.pdf`
+- 来源：[DOI](https://doi.org/10.1038/s42949-026-00384-3)；PDF共15页。
+- 已查看重点：F1 p2；F2 p3；F3 p4；F4 p6；F5 p7；F6 p8；F7 p10。
+- 图型与组合：两类市内栅格小多图；均值与总量地图分开；设施残差分布、相关矩阵和城市×设施热图分工；分类地图配分布/类别轮廓。
+- 配色/绘制观察及迁移：类型颜色贯穿地图与统计；保留栅格尺度、标准化及残差基准的说明，不用聚类颜色暗示好坏序。
+
+## P27 | Unequal roles of cities in the intercity healthcare system
+
+- 原始文件：`Unequal roles of cities in the intercity healthcare system.pdf`
+- 来源：[DOI](https://doi.org/10.1038/s44284-024-00185-8)；PDF共14页。
+- 已查看重点：F1 p2；F2 p3；F3 p4；F4 p5；F5 p6；F6 p7。
+- 图型与组合：跨城流线、流入/流出份额小图、需求角色→供给角色流带，与复合模式矩阵/条形图各司其职。
+- 配色/绘制观察及迁移：需求与供给类别分别定义；在能源场景可用 MWh 或核算份额，不能把流带比例解读为城市数量或实际地理路径。
 
 ## 形式参考与原创边界
 
